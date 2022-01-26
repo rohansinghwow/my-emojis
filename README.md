@@ -1,6 +1,6 @@
 
 # My Emojis
-## _A Javascript app to demonstrate the use of some common array methods (shift,unshift,push,pop) in an interesting way ._
+# A Javascript app to demonstrate the use of some common array methods (shift,unshift,push,pop) in an interesting way .
 
 # Screenshot
 
